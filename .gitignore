@@ -1,3 +1,7 @@
+# Ignore local code environment files
+*.code-workspace
+*.python-version
+/notes.md
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

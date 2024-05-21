@@ -1,0 +1,130 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17
+1,NUS Courses | Admitted Batch >,2023/2024,2022/2023,2021/2022,2020/2021,2019/2020,2018/2019,2017/2018,2016/2017,2015/2016,2014/2015,2013/2014,2012/2013,2011/2012,2010/2011,2009/2010,2008/2009
+2,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law,Faculty of Law
+3,Law*,AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85)
+4,Law*,3.75,3.82,3.87,3.81,3.86,3.77,3.80,3.84,3.83,3.79,#,#,#,#,#,#
+5,Law*,233,244,234,219,223,250,227,237,253,242,244,262,239,240,255,231
+6,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine,School of Medicine
+7,Medicine*,AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85)
+8,Medicine*,3.78,3.86,3.82,3.89,3.94,#,3.91,3.92,3.92,3.87,#,#,#,#,#,#
+9,Medicine*,280,294,303,315,280,299,303,302,300,301,300,300,280,260,260,260
+10,Nursing*,CCD/B (66.25),CCD/B (66.25),CCC/C (67.5),CCD/B (66.25),CCD/B (66.25),CCC/C (67.5),CCC/B (68.75),BCC/C (70),CCC/B (68.75),CCC/B (68.75),CCC/B (68.75),BCC/C (70),BCC/B (71.25),BCC/B (71.25),CCC/B (68.75),CDD/C (62.5)
+11,Nursing*,3.28,3.42,3.41,3.25,3.33,3.37,3.48,3.39,3.45,3.42,3.56,3.43,3.58,3.46,3.23,3.02
+12,Nursing*,346,314,338,293,311,316,232,155,148,115,115,99,100,86,87,75
+13,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry,Faculty of Dentistry
+14,Dentistry*,AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85)
+15,Dentistry*,#,#,#,#,#,#,#,#,3.96,#,#,#,#,#,#,#
+16,Dentistry*,80,80,81,72,60,60,54,54,54,54,54,53,48,48,48,44
+17,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,College of Design & Engineering,,,,
+18,Architecture*,CCC/B (68.75),BBC/C (72.5),CCC/C (67.5),BCC/C (70),ABB/C (77.5),ABB/C (77.5),ABB/B (78.75),AAB/C (80),ABB/B (78.75),AAB/C (80),AAB/C (80),ABB/B (78.75),BBB/C (75),BBB/B (76.25),BBB/C (75),BCC/C (70)
+19,Architecture*,3.54,3.56,3.49,3.45,3.59,3.76,3.78,3.77,3.72,3.76,3.69,3.83,3.58,3.42,3.40,#
+20,Architecture*,135,140,159,155,160,149,148,149,149,151,146,135,162,148,159,171
+21,Engineering (from AY2022/23),BBC/C (72.5),BCC/B (71.25),,,,,,,,,,,,,,
+22,Engineering (from AY2022/23),3.55,3.56,,,,,,,,,,,,,,
+23,Engineering (from AY2022/23),1292,1167,,,,,,,,,,,,,,
+24,Engineering (Common) (Not offered as a choice from AY2020/21),,,,,BCC/C (70),BCC/C (70),BBB/C (75),ABB/B (78.75),BBC/B (73.75),BBC/B (73.75),BBC/C (72.5),ABB/C (77.5),BBB/C (75),BBC/B (73.75),ABB/B (78.75),BBB/A (77.5)
+25,Engineering (Common) (Not offered as a choice from AY2020/21),,,,,,,,,,,,,#,#,#,#
+26,Engineering (Common) (Not offered as a choice from AY2020/21),,,,33,56,66,41,57,46,46,81,86,147,149,164,131
+27,Biomedical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,BBC/C (72.5),BBB/C (75),BBC/B (73.75),BCC/B (71.25),BBB/B (76.25),ABB/C (77.5),BBB/C (75),BBC/C (72.5),BCC/B (71.25),ABB/C (77.5),AAB/C (80),ABB/B (78.75),AAB/C (80),ABB/A (80)
+28,Biomedical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,3.57,3.61,3.71,3.73,3.87,3.82,3.82,3.74,3.79,3.76,3.70,#,#,#
+29,Biomedical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,185,145,161,154,158,133,100,98,91,96,89,79,70,64
+30,Chemical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,BBC/B (73.75),BBB/B (76.25),BBC/B (73.75),BBC/B (73.75),ABB/C (77.5),AAA/B (83.75),AAB/B (81.25),AAA/B (83.75),AAB/C (80),AAA/B (83.75),AAA/A (85),AAA/B (83.75),AAA/A (85),AAA/A (85)
+31,Chemical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,3.59,3.58,3.65,3.66,3.87,3.86,3.87,3.87,3.88,3.92,3.69,3.90,3.87,3.88
+32,Chemical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,197,189,253,258,302,277,304,296,310,282,289,283,325,295
+33,Civil Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,CCC/C (67.5),CCC/C (67.5),CCD/B (66.25),BBC/C (72.5),BBB/C (75),BBB/B (76.25),BBC/B (73.75),BBC/B (73.75),BBC/C (72.5),BBC/B (73.75),BBB/B (76.25),BBB/C (75),BBB/B (76.25),BBC/C (72.5)
+34,Civil Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,3.58,3.59,3.71,3.65,3.72,3.70,3.72,3.75,3.74,3.81,3.70,3.55,3.51,3.26
+35,Civil Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,94,118,133,120,146,130,109,121,108,94,92,87,81,81
+36,Electrical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,BCC/B (71.25),BBC/B (73.75),CCC/C (67.5),BCC/B (71.25),BBC/B (73.75),BBB/C (75),BBB/C (75),BCC/B (71.25),BCC/B (71.25),BCC/B (71.25),BBC/B (73.75),BBB/C (75),BBB/C (75),BBB/C (75)
+37,Electrical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,3.59,3.65,3.68,3.69,3.69,3.68,3.70,3.74,3.69,3.78,3.73,3.67,3.63,3.55
+38,Electrical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,212,208,207,226,206,209,199,203,210,254,251,265,248,293
+39,Engineering Science (until AY2021/22),Merged into Engineering,Merged into Engineering,BCC/B (71.25),BBC/B (73.75),BCC/C (70),BBC/B (73.75),BBB/B (76.25),AAB/B (81.25),BBB/C (75),BBC/C (72.5),BBC/C (72.5),BBB/C (75),BBB/B (76.25),ABB/C (77.5),AAB/C (80),BBB/A (77.5)
+40,Engineering Science (until AY2021/22),Merged into Engineering,Merged into Engineering,#,3.88,3.83,#,#,3.86,3.92,3.91,#,#,#,#,#,#
+41,Engineering Science (until AY2021/22),Merged into Engineering,Merged into Engineering,41,36,35,34,28,31,22,27,43,33,44,49,62,46
+42,Environmental Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,BCC/C (70),BBC/C (72.5),BCC/B (71.25),BCC/B (71.25),BBC/B (73.75),BBB/C (75),BBC/B (73.75),BBC/B (73.75),BCC/B (71.25),BBB/C (75),AAA/C (82.5),AAA/C (82.5),AAA/A (85),AAA/A (85)
+43,Environmental Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,#,3.54,3.57,3.59,3.69,3.71,3.69,3.72,3.66,3.74,3.74,3.66,3.67,3.67
+44,Environmental Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,32,30,47,38,52,56,54,78,91,74,55,63,71,58
+45,Industrial & Systems Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,BCC/B (71.25),BBC/C (72.5),BCC/B (71.25),BBC/C (72.5),BBB/B (76.25),AAB/C (80),ABB/C (77.5),ABB/B (78.75),ABB/B (78.75),AAB/B (81.25),AAA/B (83.75),AAA/B (83.75),AAA/A (85),AAA/A (85)
+46,Industrial & Systems Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,3.77,#,#,#,#,3.94,#,#,#,#,#,#,3.79,#
+47,Industrial & Systems Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,88,42,65,76,94,95,105,110,115,99,95,73,85,67
+48,"Project & Facilities Management/ Infrastructure & Project Management (until AY2021/22, under CDE Engineering from AY2022/23)",Merged into Engineering,Merged into Engineering,CCC/B (68.75),CCC/B (68.75),BCC/B (71.25),BCC/C (70),BBB/C (75),BBB/B (76.25),BBC/C (72.5),BBC/C (72.5),BBC/B (73.75),BBC/C (72.5),BBB/C (75),BBB/C (75),BBB/B (76.25),BBC/C (72.5)
+49,"Project & Facilities Management/ Infrastructure & Project Management (until AY2021/22, under CDE Engineering from AY2022/23)",Merged into Engineering,Merged into Engineering,3.55,3.43,3.59,3.54,3.68,3.68,3.74,3.77,3.66,3.65,3.61,3.54,3.43,3.41
+50,"Project & Facilities Management/ Infrastructure & Project Management (until AY2021/22, under CDE Engineering from AY2022/23)",Merged into Engineering,Merged into Engineering,116,133,167,166,139,127,131,139,127,149,146,131,139,137
+51,Materials Science & Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,BCC/C (70),BBC/C (72.5),CCC/C (67.5),BCC/B (71.25),BBC/C (72.5),BBB/B (76.25),BBC/B (73.75),BBC/B (73.75),BCC/B (71.25),AAB/B (81.25),AAB/B (81.25),ABB/C (77.5),AAA/C (82.5),AAA/A (85)
+52,Materials Science & Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,3.62,3.61,3.76,3.74,#,3.89,3.94,3.85,#,#,#,#,#,#
+53,Materials Science & Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,59,32,79,99,75,72,70,55,56,73,65,70,50,50
+54,Mechanical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,BBC/C (72.5),BBC/B (73.75),BCC/B (71.25),BCC/B (71.25),BBB/C (75),AAB/C (80),BBB/B (76.25),BBB/B (76.25),BCC/B (71.25),ABB/C (77.5),ABB/C (77.5),BBB/C (75),ABB/B (78.75),BBB/A (77.5)
+55,Mechanical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,BBC/C (72.5),ABB/B (78.75) (Aeronautical),AAB/B (81.25) (Aeronautical),AAA/B (83.75) (Aeronautical),AAA/A (85) (Aeronautical),AAA/A (85) (Aeronautical),AAA/A (85) (Aeronautical),BBB/B (76.25),BCC/B (71.25),ABB/C (77.5),ABB/C (77.5),BBB/C (75),ABB/B (78.75),BBB/A (77.5)
+56,Mechanical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,3.61,3.58,3.65,3.66,3.80,3.81,3.83,3.89,3.75,3.86,3.86,3.79,3.68,3.64
+57,Mechanical Engineering (until AY2021/22),Merged into Engineering,Merged into Engineering,270,338,346,342,369,311,329,334,296,325,330,340,374,315
+58,Industrial Design*,ABB/B (78.75),BBC/C (72.5),BCC/B (71.25),BBC/B (73.75),ABB/C (77.5),ABB/C (77.5),AAB/C (80),ABB/B (78.75),BBB/B (76.25),BBB/B (76.25),BBB/C (75),BBB/B (76.25),BBB/C (75),BBC/B (73.75),BCC/C (70),CCC/B (68.75)
+59,Industrial Design*,3.55,3.62,3.61,3.54,3.88,3.72,3.70,3.72,3.59,3.73,3.57,3.67,3.52,#,#,#
+60,Industrial Design*,50,44,53,47,48,43,46,41,48,51,41,38,41,39,36,34
+61,Landscape Architecture*,CCC/B (68.75),BCC/B (71.25),BCC/B (71.25),BCC/C (70),,,,,,,,,,,,
+62,Landscape Architecture*,3.36,3.38,3.41,3.38,,,,,,,,,,,,
+63,Landscape Architecture*,52,32,28,34,,,,,,,,,,,,
+64,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing,School of Computing
+65,Computing (Business Analytics),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/B (83.75),AAA/A (85),AAA/A (85),AAA/A (85),AAB/B (81.25),AAB/B (81.25),,,,,
+66,Computing (Business Analytics),3.78,3.81,3.84,3.83,3.81,3.73,3.81,3.90,3.81,3.84,3.68,,,,,
+67,Computing (Business Analytics),326,295,271,228,241,Computing,Computing,Computing,Computing,Computing,Computing,,,,,
+68,Computing (Computer Science),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/B (83.75),AAA/A (85),AAA/A (85),AAA/A (85),AAA/C (82.5),BBB/C (75),BBC/C (72.5),BBB/B (76.25),ABB/B (78.75),BBB/C (75),BCC/B (71.25)
+69,Computing (Computer Science),3.84,3.84,3.86,3.86,3.86,3.74,3.77,3.75,3.74,3.65,3.61,3.67,3.66,3.63,3.58,3.54
+70,Computing (Computer Science),923,858,777,716,596,Computing,Computing,Computing,Computing,Computing,Computing,Computing,Computing,Computing,Computing,Computing
+71,Computing (Information Security),AAA/C (82.5),AAA/B (83.75),AAA/A (85),AAA/A (85),AAA/A (85),AAA/B (83.75),AAA/A (85),AAB/B (81.25),AAA/B (83.75),,,,,,,
+72,Computing (Information Security),3.89,3.80,3.79,3.79,3.84,3.76,3.82,3.73,no data,,,,,,,
+73,Computing (Information Security),61,46,40,69,53,Computing,Computing,Computing,Computing,,,,,,,
+74,Computing (Information Systems),AAA/A (85),AAA/B (83.75),AAA/B (83.75),AAA/A (85),AAA/A (85),AAA/C (82.5),AAB/B (81.25),AAB/C (80),AAA/B (83.75),AAB/B (81.25),AAB/B (81.25),BBB/C (75),BBB/B (76.25),ABB/C (77.5),,
+75,Computing (Information Systems),3.77,3.76,3.75,3.75,3.82,3.61,3.65,3.63,3.67,3.70,3.59,3.65,3.74,3.66,,
+76,Computing (Information Systems),100,94,81,103,124,Computing,Computing,Computing,Computing,Computing,Computing,Computing,Computing,Computing,,
+77,Computing,,,,,,806,532,410,343,373,399,390,370,348,356,301
+78,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing,College of Design & Engineering (Faculty of Engineering) and School of Computing
+79,Computer Engineering (under CDE from AY2022/23),AAB/C (80),AAB/B (81.25),AAA/C (82.5),AAA/B (83.75),AAB/C (80),AAB/C (80),AAB/C (80),AAB/C (80),BBB/B (76.25),BBC/C (72.5),BCC/B (71.25),BCC/B (71.25),BBC/B (73.75),BBB/B (76.25),BBB/C (75),BBB/C (75) (FoE)
+80,Computer Engineering (under CDE from AY2022/23),AAB/C (80),AAB/B (81.25),AAA/C (82.5),AAA/B (83.75),AAB/C (80),AAB/C (80),AAB/C (80),AAB/C (80),BBB/B (76.25),BBC/C (72.5),BCC/B (71.25),BCC/B (71.25),BBC/B (73.75),BBB/B (76.25),BBB/C (75),BCC/C (70) (SoC)
+81,Computer Engineering (under CDE from AY2022/23),3.85,3.88,3.85,3.87,3.87,3.74,3.81,3.77,3.77,3.78,3.68,3.81,3.77,3.75,3.61,3.33 (FoE)
+83,Computer Engineering (under CDE from AY2022/23),263,182,197,166,181,174,141,139,102,87,112,96,133,151,147,73 (FoE)
+85,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences,College of Humanities and Sciences
+86,Data Science & Economics (XDP),AAA/A (85),AAA/B (83.75),AAA/B (83.75),,,,,,,,,,,,,
+87,Data Science & Economics (XDP),#,#,,,,,,,,,,,,,,
+88,Data Science & Economics (XDP),95,89,47,,,,,,,,,,,,,
+89,Environmental Studies (XDP from AY2021/22),AAA/B (83.75),AAB/C (80),AAB/B (81.25),AAA/C (82.5),AAA/C (82.5),AAA/C (82.5),AAA/C (82.5),AAA/A (85),AAA/C (82.5),AAA/B (83.75),AAB/B (81.25),AAB/B (81.25),AAA/C (82.5),,,
+90,Environmental Studies (XDP from AY2021/22),3.71,#,#,#,#,3.74,3.81,3.80,3.83,3.81,3.77,#,,,,
+91,Environmental Studies (XDP from AY2021/22),40,27,45,46,47,48,48,52,57,56,68,49,no data,,,
+92,Food Science & Technology,AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/C (82.5),AAB/B (81.25),,,,,,,,,
+93,Food Science & Technology,3.86,3.86,#,#,#,3.85,#,3.92,3.75,3.88,3.82,3.88,3.79,#,#,
+94,Food Science & Technology,50,54,52,50,57,Science,Science,Science,Science,Science,Science,Science,Science,Science,Science,
+95,Humanities & Sciences (from AY2021/22),ABB/B (78.75),ABB/C (77.5),ABB/B (78.75),,,,,,,,,,,,,
+96,Humanities & Sciences (from AY2021/22),3.62,3.67,3.79,,,,,,,,,,,,,
+97,Humanities & Sciences (from AY2021/22),1949,1971,2100,,,,,,,,,,,,,
+98,Arts & Social Sciences (until AY2020/21),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,BBB/B (76.25),BBB/C (75),BBC/B (73.75),BBB/B (76.25),ABB/B (78.75),BBB/B (76.25),BBB/B (76.25),ABB/C (77.5),BBB/B (76.25),ABB/C (77.5),ABB/B (78.75),ABB/C (77.5),BBC/C (72.5)
+99,Arts & Social Sciences (until AY2020/21),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,BBC/B (73.75) (MT-Related),BBC/C (72.5) (MT-Related),BCC/B (71.25) (MT-Related),BBC/C (72.5) (MT-Related),BBB/C (75) (MT-Related),BBC/C (72.5) (MT-Related),BBC/C (72.5) (MT-Related),BBC/B (73.75) (MT-Related),BBC/C (72.5) (MT-Related),BBB/C (75) (MT-Related),BBB/C (75),BBB/C (75),BBC/C (72.5)
+100,Arts & Social Sciences (until AY2020/21),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,3.63,3.67,3.74,3.74,3.73,3.74,3.76,3.68,3.68,3.68,3.55,3.48,3.39
+101,Arts & Social Sciences (until AY2020/21),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,1234,1510,1645,1474,1559,1540,1591,1562,1481,1520,1476,1542,1613
+102,Science (until AY2020/21),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,AAA/C (82.5),AAA/C (82.5),AAB/C (80),ABB/B (78.75),ABB/C (77.5),BBB/C (75),BBC/C (72.5),BBC/B (73.75),BBC/B (73.75),ABB/B (78.75),ABB/B (78.75),ABB/B (78.75),BBB/B (76.25)
+103,Science (Chemistry),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,3.82,3.85,3.84,3.82,3.76,3.74,3.77,3.72,3.72,3.69,3.49,3.53,3.34
+104,Science (Computational Biology),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,,,#,#,#,#,#,#,#,#,#,#,#
+105,Science (Life Sciences),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,3.81,3.83,3.82,3.89,3.80,3.74,3.80,3.73,3.79,3.80,3.66,3.69,3.65
+106,Science (Physics),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,#,#,#,#,3.87,3.77,3.85,3.83,3.71,3.82,3.56,#,3.41
+107,Science,Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,603,571,927,851,1027,1127,1196,1081,1200,1161,1205,1189,1100
+108,Data Science & Analytics (until AY2020/21),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,AAA/C (82.5),AAB/C (80),AAB/C (80),AAA/C (82.5),AAB/C (80),,,,,,,,
+109,Data Science & Analytics (until AY2020/21),Merged into Humanities & Sciences,Merged into Humanities & Sciences,Merged into Humanities & Sciences,204,179,Science,Science,Science,,,,,,,,
+110,Pharmaceutical Science,AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),,,,,,,,,,
+111,Pharmaceutical Science,#,#,#,#,#,#,,,,,,,,,,
+112,Pharmaceutical Science,72,63,59,46,48,Pharmacy,,,,,,,,,,
+113,Pharmacy (not CHS programme. Under Faculty of Science),AAA/A (85),AAA/A (85),AAA/A (85),AAA/B (83.75),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/B (83.75),AAA/A (85),AAA/A (85),AAA/B (83.75)
+114,Pharmacy (not CHS programme. Under Faculty of Science),3.85,3.86,3.91,3.90,#,#,3.93,3.92,3.92,3.94,3.89,3.90,3.87,#,#,#
+115,Pharmacy (not CHS programme. Under Faculty of Science),143,154,169,153,156,170,181,192,209,195,209,180,163,158,147,132
+116,"Philosophy, Politics & Economics* (XDP from AY2021/22)",AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),,,,,,,,,,,
+117,"Philosophy, Politics & Economics* (XDP from AY2021/22)",#,#,#,#,#,,,,,,,,,,,
+118,"Philosophy, Politics & Economics* (XDP from AY2021/22)",37,53,28,Arts & Social Sciences,Arts & Social Sciences,,,,,,,,,,,
+119,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business,School of Business
+120,Business Administration (from AY2024/25),New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+121,Business Administration (from AY2024/25),New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+122,Business Administration (from AY2024/25),New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+123,Business Administration (until AY2023/24),AAA/B (83.75),AAB/C (80),ABB/C (77.5),AAB/C (80),AAB/C (80),ABB/B (78.75),AAB/C (80),AAA/C (82.5),AAA/C (82.5),AAA/C (82.5),AAA/B (83.75),AAA/B (83.75),AAA/A (85),AAA/B (83.75),AAA/C (82.5),AAB/B (81.25)
+124,Business Administration (until AY2023/24),3.75,3.68,3.70,3.65,3.73,3.71,3.81,3.85,3.85,3.86,3.82,3.82,3.79,3.73,3.75,3.50
+125,Business Administration (until AY2023/24),652,725,871,799,765,730,550,509,504,546,485,502,457,436,471,457
+126,Business Administration (Accountancy),AAA/C (82.5),AAB/B (81.25),ABB/B (78.75),AAB/B (81.25),AAB/C (80),AAB/C (80),AAA/C (82.5),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/B (83.75),AAA/B (83.75)
+127,Business Administration (Accountancy),3.75,3.78,3.79,3.70,3.76,3.73,3.82,3.89,3.87,3.88,3.86,3.86,3.82,3.81,3.85,3.64
+128,Business Administration (Accountancy),169,183,231,220,220,259,270,243,250,231,220,220,172,176,215,133
+129,Real Estate (under SDE before Jun 2021),BBC/B (73.75),BBC/B (73.75),BCC/B (71.25),CCD/B (66.25),BCC/B (71.25),BCC/C (70),BBC/B (73.75),BBB/B (76.25),BBC/C (72.5),BBC/C (72.5),BBB/C (75),BBC/B (73.75),BBB/C (75),BBB/B (76.25),BBB/C (75),BBC/B (73.75)
+130,Real Estate (under SDE before Jun 2021),3.57,3.52,3.56,3.44,3.58,3.54,3.68,3.65,3.71,3.74,3.65,3.67,3.65,3.46,3.40,3.37
+131,Real Estate (under SDE before Jun 2021),102,105,127,161,165,143,121,140,139,180,132,111,167,147,136,144

@@ -1,0 +1,153 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17
+1,NTU Courses | Admitted Batch >,2023/2024,2022/2023,2021/2022,2020/2021,2019/2020,2018/2019,2017/2018,2016/2017,2015/2016,2014/2015,2013/2014,2012/2013,2011/2012,2010/2011,2009/2010,2008/2009
+2,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine,Lee Kong Chian School of Medicine
+3,Medicine*,AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),,,,,
+4,Medicine*,#,#,#,#,#,#,#,#,#,#,#,,,,,
+5,Medicine*,150,167,168,162,149,138,120,108,90,78,54,,,,,
+6,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering,College of Engineering
+7,Renaissance Engineering*,AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),AAA/A (85),,,
+8,Renaissance Engineering*,#,#,#,#,#,#,#,#,#,#,#,#,#,,,
+9,Renaissance Engineering*,54,40,37,51,55,55,60,68,58,56,42,56,36,,,
+10,Aerospace Engineering,CCC/C (67.5),AAC/B (78.75),AAC/B (78.75),AAB/C (80),AAA/C (82.5),AAA/B (83.75),AAA/A (85),AAA/B (83.75),AAA/B (83.75),AAA/B (83.75),AAB/B (81.25),AAA/B (83.75),AAA/B (83.75),AAA/B (83.75),AAA/B (83.75),AAA/B (83.75)
+11,Aerospace Engineering,3.69,3.55,3.82,3.80,3.49,3.83,3.88,3.74,3.88,3.81,3.85,#,#,#,#,#
+12,Aerospace Engineering,135,131,168,144,124,142,102,130,136,132,102,97,69,88,96,87
+13,Bioengineering,BCC/D (68.75),BBC/C (72.5),ABC/C (75),BCC/B (71.25),BCC/B (71.25),BCC/D (68.75),BBC/D (71.25),BBC/D (71.25),BBC/D (71.25),BBC/C (72.5),BCC/D (68.75),BCC/C (70),BBC/B (73.75),BBC/A (75),BBC/A (75),BBC/B (73.75)
+14,Bioengineering,3.52,3.57,3.53,3.63,3.69,3.55,3.47,3.45,3.42,3.61,3.34,3.44,3.46,3.48,3.30,3.50
+15,Bioengineering,138,85,95,111,102,112,94,78,88,88,86,107,108,138,112,68
+16,Chemical & Biomolecular Engineering,BCC/C (70),BBC/C (72.5),ABC/C (75),BBC/B (73.75),AAC/C (77.5),AAB/B (81.25),AAA/C (82.5),AAA/C (82.5),AAB/C (80),AAB/B (81.25),AAB/B (81.25),AAB/B (81.25),AAB/B (81.25),AAA/A (85),AAA/B (83.75),ABB/A (80)
+17,Chemical & Biomolecular Engineering,3.47,3.71,3.48,3.61,3.67,3.81,3.69,3.85,3.64,3.81,3.48,3.57,3.68,3.67,3.67,3.81
+18,Chemical & Biomolecular Engineering,150,162,193,173,174,155,143,143,190,201,224,159,160,170,203,162
+19,Civil Engineering,CCD/D (63.75),CCD/D (63.75),CCD/D (63.75),CDD/C (62.5),CCC/D (66.25),CCC/C (67.5),BCC/D (68.75),CCC/D (66.25),BCC/D (68.75),BCC/D (68.75),CCC/D (66.25),BCC/D (68.75),BCC/B (71.25),BCC/B (71.25),BCC/C (70),CCC/C (67.5)
+20,Civil Engineering,3.43,3.49,3.45,3.50,3.44,3.49,3.71,3.73,3.55,3.5,3.49,3.54,3.54,3.44,3.34,#
+21,Civil Engineering,139,130,130,144,120,130,125,136,147,154,153,134,132,143,112,106
+22,Electrical & Electronic Engineering,CCD/C (65),CCD/C (65),CCC/D (66.25),CDD/C (62.5),BCC/D (68.75),BCC/B (71.25),BCC/C (70),CCC/C (67.5),CCD/C (65),CCD/C (65),CCD/C (65),BCC/D (68.75),BCC/C (70),BCC/B (71.25),BCC/C (70),BCC/C (70)
+23,Electrical & Electronic Engineering,3.44,3.44,3.45,3.40,3.43,3.49,3.56,3.47,3.44,3.44,3.37,3.47,3.51,3.57,3.39,3.35
+24,Electrical & Electronic Engineering,652,620,647,648,608,570,525,597,644,608,624,606,631,672,721,689
+25,Engineering,CCD/D (63.75),CCC/C (67.5),CCD/C (65),CCD/D (63.75),CCC/C (67.5),BCC/D (68.75),BCC/D (68.75),BCC/C (70),BCC/D (68.75),BCC/D (68.75),CCD/C (65),BCC/D (68.75),BCC/C (70),BCC/B (71.25),BCC/B (71.25),CCC/D (66.25)
+26,Engineering,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#
+27,Engineering,70,45,53,43,33,37,42,55,57,77,82,66,78,108,139,137
+28,Environmental Engineering,BCC/D (68.75),BCC/D (68.75),BCC/D (68.75),CCC/C (67.5),BCC/D (68.75),BCC/C (70),BBC/D (71.25),BBC/D (71.25),BBC/D (71.25),BBC/D (71.25),BCC/B (71.25),BCC/C (70),ABB/A (80),AAB/B (81.25),ABB/B (78.75),ABB/B (78.75)
+29,Environmental Engineering,3.50,3.56,3.50,3.46,3.46,3.51,3.63,3.64,3.70,3.74,3.50,3.66,3.61,3.57,3.22,3.29
+30,Environmental Engineering,54,51,57,58,35,49,48,46,51,53,58,45,76,76,135,78
+31,Information Engineering & Media,BCC/D (68.75),BCC/B (71.25),BBC/C (72.5),BCC/D (68.75),BBC/B (73.75),BBC/B (73.75),BBC/B (73.75),BCC/C (70),BCC/D (68.75),BCC/D (68.75),CCC/B (68.75),BCC/B (71.25),BBC/B (73.75),BBC/B (73.75),BBC/C (72.5),BBB/C (75)
+32,Information Engineering & Media,3.62,3.66,3.66,3.55,3.49,3.63,3.70,3.48,3.53,3.48,3.52,3.55,3.58,3.60,3.64,3.56
+33,Information Engineering & Media,99,105,91,97,97,81,90,96,90,112,77,80,90,74,70,61
+34,Maritime Studies,BCC/D (68.75),BCC/D (68.75),BCC/D (68.75),CCD/C (65),BCC/C (70),BCC/B (71.25),BBC/C (72.5),BBC/C (72.5),ABC/D (73.75),ABC/D (73.75),BBB/C (75),BBB/B (76.25),ABB/B (78.75),AAB/A (82.5),ABB/A (80),ABB/B (78.75)
+36,Maritime Studies,3.51,3.50,3.50,3.50,3.54,3.69,3.68,3.78,3.69,3.68,3.70,3.68,3.71,3.74,3.65,#
+37,Maritime Studies,145,129,112,87,86,87,83,84,84,84,92,65,59,60,61,49
+39,Materials Engineering,CCC/C (67.5),BCC/C (70),BCC/C (70),CCD/C (65),BCC/D (68.75),BBC/C (72.5),BCC/C (70),BCC/D (68.75),BCC/D (68.75),BCC/D (68.75),CCD/C (65),BCC/C (70),BCC/B (71.25),BBC/B (73.75),BBC/C (72.5),BCC/B (71.25)
+40,Materials Engineering,3.35,3.41,3.39,3.36,3.38,3.46,3.49,3.51,3.46,3.48,3.39,3.46,3.52,3.51,3.24,3.38
+41,Materials Engineering,157,166,170,215,211,203,195,201,239,230,243,206,261,247,294,231
+42,Mechanical Engineering,CDD/C (62.5),CCD/D (63.75),CCC/C (67.5),CCC/D (66.25),BCC/D (68.75),BCC/C (70),BCC/C (70),BCC/C (70),CCC/D (66.25),ABC/D (73.75),CCD/C (65),BCC/D (68.75),BCC/C (70),BCC/B (71.25),BCC/B (71.25),BCC/C (70)
+43,Mechanical Engineering,3.39,3.37,3.49,3.44,3.40,3.61,3.63,3.44,3.46,3.50,3.47,3.48,3.55,3.60,3.32,3.24
+44,Mechanical Engineering,448,520,492,549,540,532,530,485,489,553,540,475,528,487,619,488
+45,College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024),College of Computing and Data Science (wef Feb 2024)
+46,Applied Computing in Finance,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+47,Applied Computing in Finance,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+48,Applied Computing in Finance,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+49,Artificial Intelligence & Society,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+50,Artificial Intelligence & Society,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+51,Artificial Intelligence & Society,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+52,Computer Engineering,ABC/C (75),AAC/C (77.5),ABC/C (75),AAC/B (78.75),BBC/B (73.75),AAC/B (78.75),AAB/C (80),ABC/C (75),BBC/D (71.25),BCC/C (70),BCC/D (68.75),BCC/C (70),BCC/B (71.25),BBC/C (72.5),BBC/B (73.75),BCC/C (70)
+53,Computer Engineering,3.60,3.65,3.87,3.77,3.58,3.63,3.61,3.56,3.53,3.54,3.51,3.60,3.55,3.67,3.36,3.38
+54,Computer Engineering,203,180,96,129,99,90,87,86,71,93,95,89,130,148,145,170
+55,Computer Science,AAB/C (80),AAA/C (82.5),AAA/B (83.75),AAB/B (81.25),AAC/C (77.5),AAB/C (80),AAC/B (78.75),ABC/C (75),BBC/D (71.25),BCC/C (70),BCC/D (68.75),BCC/B (71.25),BCC/B (71.25),BBC/C (72.5),BBC/C (72.5),BCC/C (70)
+56,Computer Science,3.72,3.70,3.90,3.92,3.56,3.68,3.65,3.61,3.54,3.55,3.55,3.54,3.55,3.56,3.33,3.40
+57,Computer Science,497,402,478,472,424,347,308,263,268,265,253,246,299,218,221,198
+58,Data Science & Artificial Intelligence,AAA/C (82.5),AAA/B (83.75),AAA/A (85),AAA/A (85),AAB/B (81.25),AAA/B (83.75),,,,,,,,,,
+59,Data Science & Artificial Intelligence,3.90,3.90,#,#,#,#,,,,,,,,,,
+60,Data Science & Artificial Intelligence,121,75,87,74,52,24,,,,,,,,,,
+61,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science,College of Science
+62,CoS Double Major Programmes*,AAB/B (81.25),AAB/B (81.25),AAA/C (82.5),AAA/C (82.5),AAA/C (82.5),AAA/C (82.5),,,,,,,,,,
+63,CoS Double Major Programmes*,3.76,3.78,3.56,3.85,3.84,#,,,,,,,,,,
+64,CoS Double Major Programmes*,111,93,107,101,63,27,,,,,,,,,,
+65,Biological Sciences*,AAB/D (78.75),AAB/C (80),AAB/B (81.25),AAA/C (82.5),AAB/B (81.25),AAB/B (81.25),AAC/C (77.5),ABC/C (75),ABC/D (73.75),BBC/C (72.5),BBC/B (73.75),BBC/B (73.75),BBC/B (73.75),BBB/B (76.25),BBC/B (73.75),BBC/C (72.5)
+66,Biological Sciences*,3.73,3.71,3.67,3.70,3.71,3.79,3.78,3.68,3.54,3.58,3.37,3.49,3.37,3.35,3.29,3.32
+67,Biological Sciences*,220,236,219,208,263,209,252,250,305,314,351,265,348,311,389,340
+68,Chemistry & Biological Chemistry,BBC/C (72.5),BBC/C (72.5),ABC/B (76.25),BBC/B (73.75),BBC/B (73.75),ABC/C (75),BBC/B (73.75),BCC/C (70),BBC/D (71.25),BCC/C (70),CCC/B (68.75),BCC/B (71.25),BBB/B (76.25),ABB/B (78.75),BBB/B (76.25),BBB/C (75)
+69,Chemistry & Biological Chemistry,3.52,3.57,3.68,3.63,3.49,3.66,3.58,3.50,3.46,3.57,3.27,3.30,3.33,3.39,3.33,3.40
+70,Chemistry & Biological Chemistry,200,170,180,201,231,205,198,244,236,255,297,215,227,205,298,285
+71,Chinese Medicine,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+72,Chinese Medicine,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+73,Chinese Medicine,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+74,Environmental Earth Systems Science*,AAB/B (81.25),AAA/C (82.5),AAA/B (83.75),AAA/A (85),AAA/B (83.75),AAA/A (85),AAA/B (83.75),AAA/A (85),AAA/B (83.75),AAB/B (81.25),,,,,,
+75,Environmental Earth Systems Science*,#,#,#,#,#,#,#,#,#,#,,,,,,
+76,Environmental Earth Systems Science*,48,48,31,29,34,24,27,34,30,27,,,,,,
+77,Mathematical Sciences,BCC/D (68.75),BCC/B (71.25),BBC/C (72.5),BCC/B (71.25),BCC/B (71.25),BBC/B (73.75),BBC/C (72.5),BCC/D (68.75),BBC/D (71.25),BBC/D (71.25),CCC/B (68.75),BBC/B (73.75),BBB/B (76.25),BBB/B (76.25),BBB/B (76.25),BBB/B (76.25)
+78,Mathematical Sciences,3.53,3.36,#,3.45,#,#,3.60,3.55,3.56,3.6,3.52,#,3.54,3.36,#,#
+79,Mathematical Sciences,170,138,133,129,152,184,157,169,178,166,206,105,136,112,146,141
+80,Mathematics & Economics,(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),AAB/B (81.25),BCC/B (71.25),ABC/D (73.75),ABC/D (73.75),BBB/C (75),BBB/B (76.25),ABB/B (78.75),ABB/B (78.75),ABB/B (78.75),ABB/B (78.75)
+81,Mathematics & Economics,(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),#,#,#,#,#,#,#,#,#,#
+82,Mathematics & Economics,(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),(no longer offered as single major course wef AY18/19),38,94,68,82,96,103,111,101,122,117
+83,Physics / Applied Physics,CDD/C (62.5),CCD/C (65),CCD/C (65),BCC/D (68.75),BCC/C (70),BCC/B (71.25),BCC/B (71.25),CCC/D (66.25),CCD/D (63.75),CCD/C (65),CDD/C (62.5),CCC/C (67.5),BCC/C (70),BBB/C (75),BBB/C (75),CCC/B (68.75)
+84,Physics / Applied Physics,3.37,#,3.41,3.50,3.52,3.52,3.48,3.44,3.47,3.34,3.35,3.34,3.32,3.20,3.27,3.28
+85,Physics / Applied Physics,68,57,67,80,80,87,98,121,121,156,118,118,107,109,83,65
+86,Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business),Nanyang Business School (College of Business)
+87,Accountancy*,BBC/C (72.5),BCC/B (71.25),BBC/C (72.5),BBC/C (72.5),ABC/B (76.25),AAC/B (78.75),AAB/B (81.25),AAB/B (81.25),AAA/C (82.5),AAA/C (82.5),AAB/A (82.5),AAA/B (83.75),AAA/B (83.75),AAB/A (82.5),AAA/B (83.75),AAB/B (81.25)
+88,Accountancy*,3.59,3.65,3.63,3.74,3.63,3.71,3.73,3.80,3.78,3.78,3.79,3.78,3.73,3.65,3.69,3.71
+89,Accountancy*,357,352,414,481,507,541,611,618,606,629,595,607,591,635,570,574
+90,Accountancy (Sustainability Management and Analytics),New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+91,Accountancy (Sustainability Management and Analytics),New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+92,Accountancy (Sustainability Management and Analytics),New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+93,Business*,BBC/B (73.75),BBC/B (73.75),BBC/B (73.75),BCC/B (71.25),ABC/C (75),AAC/C (77.5),AAB/C (80),AAB/C (80),AAC/B (78.75),AAB/B (81.25),AAB/C (80),AAB/B (81.25),AAB/B (81.25),AAB/B (81.25),AAA/B (83.75),ABB/B (78.75)
+94,Business*,3.64,3.64,3.64,3.61,3.62,3.73,3.75,3.81,3.80,3.79,3.80,3.74,3.73,3.64,3.62,3.63
+95,Business*,796,806,927,935,837,750,659,626,665,643,655,591,567,608,436,503
+96,"College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences","College of Humanities, Arts, & Social Sciences"
+97,SOH Double Major Programmes*,AAA/C (82.5),AAB/B (81.25),AAB/B (81.25),,,,,,,,,,,,,
+98,SOH Double Major Programmes*,3.51,3.55,3.54,,,,,,,,,,,,,
+99,SOH Double Major Programmes*,54,37,51,,,,,,,,,,,,,
+100,SSS Double Major Programmes,AAA/B (83.75),AAA/B (83.75),AAA/B (83.75),,,,,,,,,,,,,
+101,SSS Double Major Programmes,#,3.76,3.77,,,,,,,,,,,,,
+102,SSS Double Major Programmes,43,26,36,,,,,,,,,,,,,
+103,CoHASS Double Major Programmes*,Split into SOH and SSS,Split into SOH and SSS,Split into SOH and SSS,AAA/C (82.5),AAA/A (85),AAA/B (83.75),AAA/B (83.75),AAA/B (83.75),,,,,,,,
+104,CoHASS Double Major Programmes*,Split into SOH and SSS,Split into SOH and SSS,Split into SOH and SSS,3.66,#,#,3.74,3.67,,,,,,,,
+105,CoHASS Double Major Programmes*,Split into SOH and SSS,Split into SOH and SSS,Split into SOH and SSS,69,57,45,39,29,,,,,,,,
+106,"Art, Design & Media*^",BBC/C (72.5),BCC/C (70),BCC/B (71.25),CCC/C (67.5),CCD/C (65),CCD/C (65),CCD/D (63.75),CCD/C (65),CCD/C (65),CDD/C (62.5),CDD/C (62.5),CCD/D (63.75),CCC/C (67.5),CDD/C (62.5),CDD/C (62.5),DDD/D (58.75)
+107,"Art, Design & Media*^",3.41,3.38,3.36,3.33,3.30,3.26,3.28,3.23,3.23,3.32,3.16,3.16,3.15,3.11,3.04,2.58
+108,"Art, Design & Media*^",127,127,124,139,145,157,172,168,169,167,190,179,170,172,177,152
+109,Chinese*,BCC/B (71.25),BCC/B (71.25),BCC/C (70),CCC/C (67.5),BBC/C (72.5),BCC/C (70),BCC/C (70),BCC/C (70),BCC/D (68.75),BCC/C (70),BCC/C (70),CCC/D (66.25),CCC/B (68.75),BCC/B (71.25),CCC/C (67.5),CCC/C (67.5)
+110,Chinese*,3.41,3.42,3.49,3.29,3.41,3.44,3.44,3.46,3.37,3.48,3.43,3.43,3.45,3.35,3.29,3.37
+111,Chinese*,75,75,71,94,73,88,92,99,111,95,96,121,115,147,127,106
+112,Communication Studies*,AAC/B (78.75),AAB/B (81.25),AAB/B (81.25),AAB/C (80),AAA/B (83.75),AAB/B (81.25),AAC/B (78.75),AAC/C (77.5),ABC/B (76.25),ABC/B (76.25),ABC/C (75),ABC/B (76.25),ABB/B (78.75),ABB/B (78.75),ABB/B (78.75),BBB/C (75)
+113,Communication Studies*,3.70,3.71,3.71,3.68,3.68,#,3.72,3.71,3.74,3.79,3.68,3.64,3.37,3.58,3.40,3.21
+114,Communication Studies*,155,159,176,170,168,188,189,190,221,185,186,180,174,164,168,169
+115,Economics,BBC/B (73.75),BBC/C (72.5),AAC/C (77.5),BCC/B (71.25),BBC/B (73.75),ABC/C (75),ABC/C (75),ABC/C (75),ABC/C (75),ABC/C (75),BBB/C (75),BBC/B (73.75),BBB/C (75),BBB/C (75),BBB/B (76.25),ABB/B (78.75)
+116,Economics,3.63,3.57,3.63,3.54,3.51,3.57,3.61,3.69,3.63,3.71,3.60,3.68,3.61,3.55,3.52,3.48
+117,Economics,92,112,100,112,163,103,117,115,147,117,134,122,139,166,157,78
+118,Economics and Data Science,AAA/C (82.5),AAB/B (81.25),AAA/C (82.5),,,,,,,,,,,,,
+119,Economics and Data Science,3.79,3.76,#,,,,,,,,,,,,,
+120,Economics and Data Science,40,33,13,,,,,,,,,,,,,
+121,English*,BBC/B (73.75),BBC/B (73.75),BCC/B (71.25),BCC/D (68.75),BBC/C (72.5),BBC/C (72.5),BBC/C (72.5),BCC/C (70),BCC/C (70),BCC/B (71.25),BCC/C (70),BCC/C (70),BCC/B (71.25),BCC/B (71.25),BCC/C (70),CCC/C (67.5)
+122,English*,3.35,3.34,3.35,3.24,3.39,3.39,3.33,3.35,3.32,3.34,3.38,3.40,#,#,#,#
+123,English*,69,97,102,109,90,109,99,123,104,89,104,80,94,81,101,100
+124,History*,BCC/C (70),BCC/C (70),BCC/D (68.75),CCC/C (67.5),BBC/B (73.75),BCC/C (70),BCC/B (71.25),BCC/C (70),BCC/B (71.25),BCC/B (71.25),CCC/B (68.75),BCC/C (70),,,,
+125,History*,3.39,3.35,3.47,3.23,#,3.49,3.45,3.41,3.38,#,#,#,,,,
+126,History*,80,76,70,74,49,63,71,66,55,55,83,68,,,,
+127,Linguistics & Multilingual Studies*,ABC/C (75),ABC/C (75),BCC/B (71.25),BCC/B (71.25),BCC/B (71.25),ABC/C (75),BBC/B (73.75),BBC/C (72.5),BBC/B (73.75),BBC/C (72.5),BBC/C (72.5),BBC/C (72.5),BBC/B (73.75),BBC/C (72.5),BCC/C (70),BCC/C (70)
+128,Linguistics & Multilingual Studies*,3.45,3.50,3.46,3.23,3.38,3.52,3.53,3.53,3.44,3.49,#,#,#,#,#,#
+129,Linguistics & Multilingual Studies*,63,70,92,89,82,80,79,79,104,74,63,66,61,68,69,52
+130,Philosophy*,BBC/C (72.5),BBC/C (72.5),BCC/C (70),BCC/D (68.75),BCC/C (70),BCC/B (71.25),BCC/B (71.25),BCC/B (71.25),BCC/B (71.25),BCC/C (70),,,,,,
+131,Philosophy*,3.43,3.50,3.55,3.47,3.31,#,#,#,3.48,3.48,,,,,,
+132,Philosophy*,28,39,41,47,59,35,43,42,38,42,,,,,,
+133,"Philosophy, Politics & Economics",New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+134,"Philosophy, Politics & Economics",New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+135,"Philosophy, Politics & Economics",New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25,New Programme AY2024/25
+136,Psychology,AAC/C (77.5),AAC/B (78.75),AAC/B (78.75),AAC/C (77.5),ABC/C (75),AAC/C (77.5),AAC/C (77.5),ABC/B (76.25),ABC/B (76.25),ABC/C (75),BBC/B (73.75),BBB/C (75),BBB/C (75),BBB/B (76.25),BBC/A (75),BBB/B (76.25)
+137,Psychology,3.75,3.73,3.72,3.52,3.67,3.68,3.74,3.69,3.71,3.81,3.69,3.63,3.67,3.69,3.32,3.49
+138,Psychology,137,113,147,134,134,117,111,127,133,119,178,102,113,73,124,77
+139,Public Policy & Global Affairs,AAB/B (81.25),AAC/B (78.75),AAB/C (80),ABC/C (75),ABC/C (75),ABC/C (75),BBC/B (73.75),BBC/C (72.5),ABC/C (75),ABC/C (75),BBC/B (73.75),,,,,
+140,Public Policy & Global Affairs,3.62,3.60,3.64,3.50,3.56,3.67,3.63,3.64,3.62,3.63,3.46,,,,,
+141,Public Policy & Global Affairs,41,47,45,52,65,59,65,52,60,42,78,,,,,
+142,Sociology,BCC/B (71.25),BBC/C (72.5),ABC/C (75),BBC/C (72.5),BBC/C (72.5),BBC/C (72.5),BBC/B (73.75),BBC/B (73.75),BCC/B (71.25),BBC/C (72.5),BBC/C (72.5),BCC/B (71.25),BBC/B (73.75),BBB/C (75),CCC/B (68.75),BCC/B (71.25)
+143,Sociology,3.59,3.61,3.62,3.56,3.47,3.56,3.58,3.64,3.58,3.47,3.50,3.58,3.49,3.50,3.33,3.39
+144,Sociology,86,99,88,100,139,116,98,86,170,128,139,103,98,76,201,63
+145,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education,National Institute of Education
+146,Arts (Education)*,BCC/C (70),BCC/C (70),BBC/B (73.75),ABC/B (76.25),ABC/B (76.25),BBC/B (73.75),ABC/B (76.25),ABC/B (76.25),ABC/D (73.75),no data,BCD/B (68.75),BBC/C (72.5),no data,no data,no data,no data
+147,Arts (Education)*,#,#,#,#,#,#,#,3.59,#,no data,3.48,3.21,no data,no data,no data,no data
+148,Arts (Education)*,42,39,33,41,28,33,41,33,36,no data,86,125,no data,no data,no data,no data
+149,Science (Education)*,ABC/B (76.25),AAC/B (78.75),AAC/B (78.75),AAC/B (78.75),AAB/B (81.25),AAB/C (80),AAC/C (77.5),AAC/C (77.5),AAC/C (77.5),no data,ABC/C (75),BCC/B (71.25),no data,no data,no data,no data
+150,Science (Education)*,#,#,#,#,#,#,#,3.78,#,no data,3.37,3.30,no data,no data,no data,no data
+151,Science (Education)*,22,24,32,25,29,37,16,39,22,no data,34,72,no data,no data,no data,no data
+152,Sport Science & Management* (under NIE from 2022),BCC/D (68.75),BCC/D (68.75),BCC/D (68.75),BCC/C (70),BCC/B (71.25),BBC/C (72.5),BBC/B (73.75),BBC/B (73.75),ABC/C (75),ABC/D (73.75),BBC/C (72.5),BBC/C (72.5),BBB/C (75),BBC/A (75),AAB/C (80),
+153,Sport Science & Management* (under NIE from 2022),3.43,3.54,3.55,3.64,3.54,3.58,3.67,3.61,3.64,3.68,3.58,3.46,#,3.53,3.41,
+154,Sport Science & Management* (under NIE from 2022),69,70,74,78,74,77,77,77,75,75,90,74,72,48,35,
