@@ -11,5 +11,5 @@ Can also retrieve GES data from [data.gov.sg](https://beta.data.gov.sg/datasets/
 
 Additional Resources:
 
-- [2922 University Application Results](https://docs.google.com/spreadsheets/d/10NzKdYQivjOBv7n7AnNQaaidKnRN9BkrRB_Op_fOIIU/edit#gid=1541291593)
+- [2022 University Application Results](https://docs.google.com/spreadsheets/d/10NzKdYQivjOBv7n7AnNQaaidKnRN9BkrRB_Op_fOIIU/edit#gid=1541291593)
 
