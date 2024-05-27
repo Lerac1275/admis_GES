@@ -34,6 +34,25 @@ Measures could be:
 - Entry criteria to $$$ ratio
 - some measure of $$$ & vacancy
 
-1. Have a mapping for degree names in IGP table to degree names in GES table. Will need to match by Faculty **and** Degree. 
+# Mapping Files
+1. Have a mapping for degree names in IGP table to degree names in GES table. Will need to match by Universit **and** Degree Name.  Used to tie IGP to GES.
 
 2. In the final dashboard, want to have a panel / view that compares the selected degree to other "related" degrees. Could use another mapping table OR a column where the value is the list of (University, degree_name) related degree programmes?
+
+## IGP-GES Degree Mapping File
+
+Issue regarding the mapping file used to tag IGP to GES. For NUS IGP, several degree programmes were consolidated under **one entry criteria**. Two such generic programmes: 
+
+- Engineering (absorbing Biomed / Chem / Civil / etc)
+- Humanities & Sciences (General FASS degree + specialized Science courses)
+
+The consolidated entries only appear from AY 23 / 24 onwards, so it's just one year. 
+
+To make things consistent across the IGP and GES tables:
+
+- Will explode the records for the common courses to the individual ones. 
+- For example will take the admissions data for the common engineering course and populate the individual engineering courses with it. 
+
+Rationale is that when the user checks for their degree they are more likely to use the old name instead of the common course. This also preserves granularity and richness of information. 
+
+Think I can just add a note to explain that it was merged in 2023
