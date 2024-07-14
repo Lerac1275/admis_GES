@@ -53,6 +53,8 @@ To make things consistent across the IGP and GES tables:
 - Will explode the records for the common courses to the individual ones. 
 - For example will take the admissions data for the common engineering course and populate the individual engineering courses with it. 
 
+- Use the <mark>SALARY TABLE AS THE STARTING POINT</mark>. i.e. use the GES course names as the base reference and match to the IGP records based on the GES degree names. Logical because there's no point including degrees with no graduated batches. 
+
 Rationale is that when the user checks for their degree they are more likely to use the old name instead of the common course. This also preserves granularity and richness of information. 
 
 Think I can just add a note to explain that it was merged in 2023
