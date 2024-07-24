@@ -58,3 +58,6 @@ To make things consistent across the IGP and GES tables:
 Rationale is that when the user checks for their degree they are more likely to use the old name instead of the common course. This also preserves granularity and richness of information. 
 
 Think I can just add a note to explain that it was merged in 2023
+
+# TO DO
+- Will need to add notes for the places for certain degrees for certain years. E.g. DSA in NUS has a huge jump after a few years because the cohort count is merged with the general intake. 
