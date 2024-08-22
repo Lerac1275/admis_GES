@@ -6,6 +6,7 @@ import numpy as np
 import re
 import helper as hp
 
+st.set_page_config(layout='wide')
 @st.cache_data
 def load_main_df():
     main_df = hp.load_main_df()
