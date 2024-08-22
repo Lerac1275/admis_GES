@@ -303,6 +303,7 @@ def plot_percentile_earnings(selected_course:str, selected_uni:str, input_df:pd.
         # )
         height=400
         , margin=dict(l=50, r=50, t=15,  b=100)
+        , hovermode='x'
     )
 
     # Set x-axis ticks to show every year
@@ -383,6 +384,7 @@ def plot_employment_rates(selected_course:str, selected_uni:str, input_df:pd.Dat
     
         )
         , margin=dict(l=50, r=50, t=15,  b=100)
+        , hovermode='x'
     )
 
     return fig
