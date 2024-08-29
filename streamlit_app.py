@@ -34,8 +34,9 @@ Select a degree and observe how its admission critieria, starting salaries, and 
 # User selects a university
 selected_uni = st.selectbox("Select a University", uni_list)
 
-# Filter courses based on the selected university
-filtered_courses = course_df[course_df['uni'] == selected_uni]['course']
+# Filter courses based on the selected university and not a summary row.
+filtered_courses = course_df[(course_df['uni'] == selected_uni)
+                             & (course_df['summary_row'==0])]['course']
 
 # User selects a course from the filtered list
 selected_course = st.selectbox("Select a Course", filtered_courses)
