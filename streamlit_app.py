@@ -10,7 +10,7 @@ st.set_page_config(layout='wide')
 @st.cache_data
 def load_main_df():
     main_df = hp.load_main_df()
-    # Get unique set of uni - course
+    # Get unique set of uni - course, only for courses with GES data in 2023
     course_df = main_df[['uni', 'course', 'summary_row']].drop_duplicates()
     return main_df, course_df
 
@@ -21,16 +21,13 @@ df, course_df = load_main_df()
 uni_list = ['NUS', 'NTU', 'SMU']
 
 
-st.title("Starting Salary Visualizer")
+st.title("Singapore Degree Information Visualizer")
 st.markdown(
 """
 Select a degree and observe how its admission critieria, starting salaries, and employment prospects have changed over the years!
 """
 
 )
-
-# University the user selected
-
 # User selects a university
 selected_uni = st.selectbox("Select a University", uni_list)
 
@@ -41,6 +38,14 @@ filtered_courses = course_df.loc[(course_df['uni'] == selected_uni)
 
 # User selects a course from the filtered list
 selected_course = st.selectbox("Select a Course", filtered_courses)
+
+st.markdown(
+"""
+Degree-level information may be inconsistent. If degree information is missing from a plot, it was likely not availble for that year for that degree. 
+
+Find out more about the rise of tech-related degrees [here](https://gesvisualizer.streamlit.app/)
+"""
+)
 
 # Compute button. Only run when user wants to recompute
 if st.button('Visualize'):
