@@ -10,7 +10,7 @@ st.set_page_config(layout='wide')
 @st.cache_data
 def load_main_df():
     main_df = hp.load_main_df()
-    # Get unique set of uni - course, only for courses with GES data in 2023
+    # Get unique set of uni - course, only for courses with GES data in 2024
     course_df = main_df[['uni', 'course', 'summary_row']].drop_duplicates()
     return main_df, course_df
 
@@ -71,28 +71,32 @@ if st.button('Visualize'):
                         # , config=config
                         )
         # RP VS MEDIAN INCOME
-        median_rp_plot = hp.plot_median_vs_RP(
+        median_rp_plot, median_plot_lastyear = hp.plot_median_vs_RP(
             selected_course=selected_course
             , selected_uni=selected_uni
             , input_df=df
         )
-        st.subheader(f"RP vs Median Gross salary for 2023")
+        
+        st.subheader(f"RP vs Median Gross salary for 2024")
         st.write(f"Each point represents a course from a university in Singapore. **Hover over** the point for more details on that course.")
-        # st.write(f"RP score is the 10th percentile admission score for that year")
-        st.plotly_chart(median_rp_plot
-                        , use_container_width=True
-                        , theme=None
-                        # , config=config
-                        )
-        st.markdown(
-        """
-        With reference to the selected course (in <span style="background-color: #F587F4">pink</span>),  points to the: 
-        - **Left** and **Up** are courses with <span style='background-color:#FF9C9C'>lower</span> entry criteria and <span style='background-color:#AAF9C1'>higher</span> starting salaries
-        - **Left** and **Down** are courses with <span style='background-color:#FF9C9C'>lower</span> entry criteria and <span style='background-color:#FF9C9C'>lower</span> starting salaries
-        - **Right** and **Up** are courses with <span style='background-color:#AAF9C1'>higher</span> entry criteria and <span style='background-color:#AAF9C1'>higher</span> starting salaries
-        - **Right** and **Down** are courses with <span style='background-color:#AAF9C1'>higher</span> entry criteria and <span style='background-color:#FF9C9C'>lower</span> starting salaries                          
-        """
-        , unsafe_allow_html=True)
+        if median_plot_lastyear <2024: 
+            st.write(f'No data available for {selected_course} for 2024')
+        else:
+            # st.write(f"RP score is the 10th percentile admission score for that year")
+            st.plotly_chart(median_rp_plot
+                            , use_container_width=True
+                            , theme=None
+                            # , config=config
+                            )
+            st.markdown(
+            """
+            With reference to the selected course (in <span style="background-color: #F587F4">pink</span>),  points to the: 
+            - **Left** and **Up** are courses with <span style='background-color:#FF9C9C'>lower</span> entry criteria and <span style='background-color:#AAF9C1'>higher</span> starting salaries
+            - **Left** and **Down** are courses with <span style='background-color:#FF9C9C'>lower</span> entry criteria and <span style='background-color:#FF9C9C'>lower</span> starting salaries
+            - **Right** and **Up** are courses with <span style='background-color:#AAF9C1'>higher</span> entry criteria and <span style='background-color:#AAF9C1'>higher</span> starting salaries
+            - **Right** and **Down** are courses with <span style='background-color:#AAF9C1'>higher</span> entry criteria and <span style='background-color:#FF9C9C'>lower</span> starting salaries                          
+            """
+            , unsafe_allow_html=True)
         # Earnings Percentiles
         percentile_earnings_plot = hp.plot_percentile_earnings(
             selected_course=selected_course

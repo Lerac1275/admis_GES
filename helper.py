@@ -188,7 +188,7 @@ def plot_median_vs_RP(selected_course:str, selected_uni:str, input_df:pd.DataFra
     # Create the figure
     fig = go.Figure(data=traces, layout=layout)
 
-    return fig
+    return fig, latest_year
 
 def plot_percentile_earnings(selected_course:str, selected_uni:str, input_df:pd.DataFrame)->go.Figure:
     plot_course = selected_course
