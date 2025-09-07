@@ -43,7 +43,7 @@ st.markdown(
 """
 Degree-level information may be inconsistent. If degree information is missing from a plot, it was likely not availble for that year for that degree. 
 
-Find out more about the rise of tech-related degrees [here](https://medium.com/@carelchay/2024-singapore-tech-grads-climbing-salaries-shrinking-opportunities-1b39426a9f66)
+Find out more about the rise of tech-related degrees [here 📰🔍](https://medium.com/@carelchay/2024-singapore-tech-grads-climbing-salaries-shrinking-opportunities-1b39426a9f66)
 """
 )
 
